@@ -1,0 +1,36 @@
+(1)Alles zum abelade:
+
+Git
+Python
+-
+
+(2)Den öffne install_modules.bat, falls ned gaht lad alli python module abe in powershell
+
+
+-Python module:
+pip install Pyqt5
+pip install PyQtWebEngine
+pip install pyautogui
+pip install asyncio
+pip install gTTS
+pip install asyncio
+pip3 install TiktokLive
+
+(3)https://github.com/googlemaps/js-samples.git clone
+
+in powershell eif (git clone https://github.com/googlemaps/js-samples.git) i geh
+das isch so de google maps aber functioniert nur bi dir Localhost denn musch (npm i) i geh zum so andere teil abelade
+den (npm run build) zum so teil baue ka
+
+-Wie local host starte:
+npm start
+
+das startet denn eif den website uf din pc und es gaht denn
+
+(4)
+bi google_maps.pyw
+tusch client = TikTokLiveClient(unique_id="@Tiktokname") zu din eigene ändere
+
+(5)
+den tusch mouse location starte und test den luegsch du welli coordinate im screen de suech teil isch mit de maus
+den tusch du beidi     click(1407,244)   uf dini coordinate ändere und au de localhost link falls dine anderst isch

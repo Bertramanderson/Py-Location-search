@@ -1,0 +1,8 @@
+#requirements
+Pyqt5
+PyQtWebEngine
+pyautogui
+asyncio
+gTTS
+asyncio
+TiktokLive
